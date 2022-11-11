@@ -1,6 +1,6 @@
 # Midterm project by Clement and Ciaran
 
-# Prediction of data science salaries based on multivariable regressive analysis
+## Prediction of data science salaries based on multivariable regressive analysis
 
 Our ambition is to make a linear regression model with the target variable being salary range in the data science industry in the US. 
 We wished to make a model relevant to ourselves and our class though there was incomplete data available for the German market. Therefore, we chose a Kaggle dataset derived from data scraping job postings from the US market from the Glassdoor site.
@@ -9,12 +9,12 @@ Our model can be used by job candidates to negotiate a salary at market rate whe
 
 Our dataset has 742 rows, meaning 742 different job postings and 42 columns, meaning 42 different features, some of which we are going to use to predict salary.
 
-# High level planning of our project
+### High level planning of our project
 
-# Monday
+#### Monday
 Data column cleaning
 
-# Tuesday
+#### Tuesday
 
 
 
