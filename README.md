@@ -13,9 +13,26 @@ Our dataset has 742 rows, meaning 742 different job postings and 42 columns, mea
 
 #### Monday
 Data column cleaning
+-removing duplicates,typos,null values
+-EDA with plotting
 
 #### Tuesday
 
+-Correcting data types
+-encoding the variables
+-Transform the data
+-Scale Numerical Features
 
+#### Wednesday
 
+-Split data
+-Modelling
+-Testing the model
+-Evaluating the model
+
+#### Thursday
+
+-Documentation
+-Reporting
+-Preparing the presentation
 
