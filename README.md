@@ -1,5 +1,7 @@
 # Midterm project by Clement and Ciaran
 
+link to presentation: https://docs.google.com/presentation/d/1GF6ZbNZcwSQJhHgb5NcGrAPHXgsGAc7xPKHiA7JMysI/edit?usp=sharing
+
 ## Prediction of data science salaries based on multivariable regressive analysis
 
 Our ambition is to make a linear regression model with the target variable being salary range in the data science industry in the US. 
